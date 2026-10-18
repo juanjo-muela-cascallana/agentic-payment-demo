@@ -1,0 +1,6 @@
+{
+  "name": "Armadillo — Insured AI Agent Wallet",
+  "description": "Prefunded, insured wallet for AI agent purchases with policy review, scoped credentials, and transaction auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
